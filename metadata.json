@@ -1,0 +1,5 @@
+{
+  "name": "Milk Protein Tracker",
+  "description": "A precision calculator for monitoring daily milk powder protein intake based on body weight and specific powder concentrations.",
+  "requestFramePermissions": []
+}
